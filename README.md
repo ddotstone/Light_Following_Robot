@@ -12,3 +12,7 @@ Using the input from these three sensor the code interacts with
  
 The code is set up to allow the robot to follow the light until it reaches it, then turning to the right to allow for wall following. The capacitive sensor toggles the 
 speed of the robot, using pwm to monitor the speed.
+
+The implementation of the code into the robot can be found at the video below.
+
+https://youtu.be/r7_1FNwX_7s
