@@ -1,27 +1,16 @@
 
 /********************************************************************
-  ECEN 240/301 Lab Code
   Light-Following Robot
   The approach of this code is to use an architectured that employs
   three different processes:
     Perception
     Planning
     Action
-  By separating these processes, this allows one to focus on the
-  individual elements needed to do these tasks that are general
-  to most robotics.
-  Version History
-  1.1.3       11 January 2023   Creation by Dr. Mazzeo and TAs from 2022 version
  ********************************************************************/
 
-/* These initial includes allow you to use necessary libraries for
-your sensors and servos. */
+
 #include "Arduino.h"
 
-//
-// Compiler defines: the compiler replaces each name with its assignment
-// (These make your code so much more readable.)
-//
 
 /***********************************************************/
 // Hardware pin definitions
